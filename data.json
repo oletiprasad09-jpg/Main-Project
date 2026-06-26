@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "name": "Parking A",
+    "status": "Available"
+  },
+  {
+    "id": 2,
+    "name": "Parking B",
+    "status": "Booked"
+  },
+  {
+    "id": 3,
+    "name": "Parking C",
+    "status": "Available"
+  }
+]
